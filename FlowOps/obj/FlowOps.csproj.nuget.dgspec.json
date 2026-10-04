@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Learnings\\DotNet Core\\MyRestaurant\\MyRestaurant\\FlowOps\\FlowOps\\FlowOps.csproj": {}
+    "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.csproj": {}
   },
   "projects": {
-    "D:\\My Learnings\\DotNet Core\\MyRestaurant\\MyRestaurant\\FlowOps\\FlowOps\\FlowOps.csproj": {
+    "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Learnings\\DotNet Core\\MyRestaurant\\MyRestaurant\\FlowOps\\FlowOps\\FlowOps.csproj",
+        "projectUniqueName": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.csproj",
         "projectName": "FlowOps",
-        "projectPath": "D:\\My Learnings\\DotNet Core\\MyRestaurant\\MyRestaurant\\FlowOps\\FlowOps\\FlowOps.csproj",
+        "projectPath": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.csproj",
         "packagesPath": "C:\\Users\\SATISH VARMA\\.nuget\\packages\\",
-        "outputPath": "D:\\My Learnings\\DotNet Core\\MyRestaurant\\MyRestaurant\\FlowOps\\FlowOps\\obj\\",
+        "outputPath": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
