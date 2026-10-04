@@ -1,0 +1,12 @@
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\bin\Debug\net8.0\FlowOps.Domain.deps.json
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\bin\Debug\net8.0\FlowOps.Domain.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\bin\Debug\net8.0\FlowOps.Domain.pdb
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.AssemblyInfoInputs.cache
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.AssemblyInfo.cs
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.csproj.CoreCompileInputs.cache
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.sourcelink.json
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\refint\FlowOps.Domain.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\FlowOps.Domain.pdb
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Domain\obj\Debug\net8.0\ref\FlowOps.Domain.dll

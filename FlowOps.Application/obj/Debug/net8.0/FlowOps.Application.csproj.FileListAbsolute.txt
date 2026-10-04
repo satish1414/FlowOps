@@ -1,0 +1,16 @@
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\bin\Debug\net8.0\FlowOps.Application.deps.json
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\bin\Debug\net8.0\FlowOps.Application.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\bin\Debug\net8.0\FlowOps.Application.pdb
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\bin\Debug\net8.0\FlowOps.Domain.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\bin\Debug\net8.0\FlowOps.Domain.pdb
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.csproj.AssemblyReference.cache
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.AssemblyInfoInputs.cache
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.AssemblyInfo.cs
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.csproj.CoreCompileInputs.cache
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.sourcelink.json
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps..8BE5A86B.Up2Date
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\refint\FlowOps.Application.dll
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\FlowOps.Application.pdb
+D:\My Learnings\DotNet Core\FlowOps\FlowOps.Application\obj\Debug\net8.0\ref\FlowOps.Application.dll

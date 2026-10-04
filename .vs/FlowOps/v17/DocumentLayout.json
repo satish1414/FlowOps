@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\My Learnings\\DotNet Core\\FlowOps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\flowops.application\\workitems\\workitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|solutionrelative:flowops\\flowops.application\\workitems\\workitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\controllers\\workitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|solutionrelative:flowops\\controllers\\workitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F2609-8663-4D4F-ABD7-B7085F3C5758}|FlowOps.Domain\\FlowOps.Domain.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops.domain\\flowops.domain\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F2609-8663-4D4F-ABD7-B7085F3C5758}|FlowOps.Domain\\FlowOps.Domain.csproj|solutionrelative:flowops.domain\\flowops.domain\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D7B243-1B5B-4781-9CE7-452F413D2562}|FlowOps.Infrastructure\\FlowOps.Infrastructure.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops.infrastructure\\repositories\\workitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D7B243-1B5B-4781-9CE7-452F413D2562}|FlowOps.Infrastructure\\FlowOps.Infrastructure.csproj|solutionrelative:flowops.infrastructure\\repositories\\workitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55831980-4C3D-4B92-B666-0A662CDA2965}|FlowOps.Application\\FlowOps.Application.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops.application\\workitems\\workitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55831980-4C3D-4B92-B666-0A662CDA2965}|FlowOps.Application\\FlowOps.Application.csproj|solutionrelative:flowops.application\\workitems\\workitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|solutionrelative:flowops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\flowops.application\\workitems\\iworkitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|solutionrelative:flowops\\flowops.application\\workitems\\iworkitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3D7B243-1B5B-4781-9CE7-452F413D2562}|FlowOps.Infrastructure\\FlowOps.Infrastructure.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops.infrastructure\\persistence\\flowopsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D7B243-1B5B-4781-9CE7-452F413D2562}|FlowOps.Infrastructure\\FlowOps.Infrastructure.csproj|solutionrelative:flowops.infrastructure\\persistence\\flowopsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\flowops.domain\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|solutionrelative:flowops\\flowops.domain\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55831980-4C3D-4B92-B666-0A662CDA2965}|FlowOps.Application\\FlowOps.Application.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops.application\\workitems\\iworkitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55831980-4C3D-4B92-B666-0A662CDA2965}|FlowOps.Application\\FlowOps.Application.csproj|solutionrelative:flowops.application\\workitems\\iworkitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|solutionrelative:flowops\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55831980-4C3D-4B92-B666-0A662CDA2965}|FlowOps.Application\\FlowOps.Application.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops.application\\workitems\\iworkitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55831980-4C3D-4B92-B666-0A662CDA2965}|FlowOps.Application\\FlowOps.Application.csproj|solutionrelative:flowops.application\\workitems\\iworkitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B804AE-BF05-4055-BBE5-20FAA3A2D30D}|FlowOps\\FlowOps.csproj|d:\\my learnings\\dotnet core\\flowops\\flowops\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +62,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Domain\\FlowOps.Domain\\Entities\\WorkItem.cs",
+              "RelativeDocumentMoniker": "FlowOps.Domain\\FlowOps.Domain\\Entities\\WorkItem.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Domain\\FlowOps.Domain\\Entities\\WorkItem.cs",
+              "RelativeToolTip": "FlowOps.Domain\\FlowOps.Domain\\Entities\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:12:06.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowOps\\appsettings.json",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\appsettings.json",
+              "RelativeToolTip": "FlowOps\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T15:21:16.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlowOpsDbContext.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Infrastructure\\Persistence\\FlowOpsDbContext.cs",
+              "RelativeDocumentMoniker": "FlowOps.Infrastructure\\Persistence\\FlowOpsDbContext.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Infrastructure\\Persistence\\FlowOpsDbContext.cs",
+              "RelativeToolTip": "FlowOps.Infrastructure\\Persistence\\FlowOpsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:38:56.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWorkItemService.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemService.cs",
+              "RelativeDocumentMoniker": "FlowOps.Application\\WorkItems\\IWorkItemService.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemService.cs",
+              "RelativeToolTip": "FlowOps.Application\\WorkItems\\IWorkItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:29:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Program.cs",
               "RelativeDocumentMoniker": "FlowOps\\Program.cs",
               "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Program.cs",
               "RelativeToolTip": "FlowOps\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T13:05:59.312Z",
               "EditorCaption": ""
@@ -60,58 +128,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WorkItemService.cs",
-              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.Application\\WorkItems\\WorkItemService.cs",
-              "RelativeDocumentMoniker": "FlowOps\\FlowOps.Application\\WorkItems\\WorkItemService.cs",
-              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.Application\\WorkItems\\WorkItemService.cs",
-              "RelativeToolTip": "FlowOps\\FlowOps.Application\\WorkItems\\WorkItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:43:02.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IWorkItemService.cs",
-              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemService.cs",
-              "RelativeDocumentMoniker": "FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemService.cs",
-              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemService.cs",
-              "RelativeToolTip": "FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:39:01.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WorkItem.cs",
-              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.Domain\\Entities\\WorkItem.cs",
-              "RelativeDocumentMoniker": "FlowOps\\FlowOps.Domain\\Entities\\WorkItem.cs",
-              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\FlowOps.Domain\\Entities\\WorkItem.cs",
-              "RelativeToolTip": "FlowOps\\FlowOps.Domain\\Entities\\WorkItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:08:13.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "FlowOps\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "FlowOps\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:06:53.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "WorkItemController.cs",
               "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Controllers\\WorkItemController.cs",
               "RelativeDocumentMoniker": "FlowOps\\Controllers\\WorkItemController.cs",
@@ -120,6 +136,58 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T12:06:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItemService.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Application\\WorkItems\\WorkItemService.cs",
+              "RelativeDocumentMoniker": "FlowOps.Application\\WorkItems\\WorkItemService.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Application\\WorkItems\\WorkItemService.cs",
+              "RelativeToolTip": "FlowOps.Application\\WorkItems\\WorkItemService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:04:58.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItemRepository.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "RelativeDocumentMoniker": "FlowOps.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "RelativeToolTip": "FlowOps.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:35:04.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorkItemRepository.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemRepository.cs",
+              "RelativeDocumentMoniker": "FlowOps.Application\\WorkItems\\IWorkItemRepository.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps.Application\\WorkItems\\IWorkItemRepository.cs",
+              "RelativeToolTip": "FlowOps.Application\\WorkItems\\IWorkItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:31:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FlowOps\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\My Learnings\\DotNet Core\\FlowOps\\FlowOps\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FlowOps\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:06:53.697Z",
               "EditorCaption": ""
             }
           ]

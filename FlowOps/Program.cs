@@ -1,5 +1,9 @@
 
+using FlowOps.Application.WorkItems;
 using FlowOps.FlowOps.Application.WorkItems;
+using FlowOps.Infrastructure.Persistence;
+using FlowOps.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace FlowOps
 {
@@ -16,6 +20,10 @@ namespace FlowOps
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped<IWorkItemService, WorkItemService>();
+            builder.Services.AddScoped<IWorkItemRepository, WorkItemRepository>();
+            builder.Services.AddDbContext<FlowOpsDbContext>(options =>
+    options.UseNpgsql(
+        builder.Configuration.GetConnectionString("FlowOpsDb")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

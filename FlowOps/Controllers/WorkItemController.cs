@@ -17,7 +17,7 @@ namespace FlowOps.Controllers
             _workItemService = workItemService;
         }
 
-        #region GetRequests
+        #region GetRequests.
 
         [HttpGet("getallworkitemdetails")]
         public IEnumerable<WorkItem> GetAll()
